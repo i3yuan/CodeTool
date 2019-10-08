@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<System.Config>
+  <appSettings>
+    <add key="DataBase" value="Integrated Security=false;Initial Catalog=AppsDB;Data Source=.;User ID=sa;Password=123456;Connect Timeout=30" />
+  </appSettings>
+</System.Config>
